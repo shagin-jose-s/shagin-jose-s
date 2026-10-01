@@ -12,7 +12,7 @@ Backend Developer focused on building reliable APIs, backend systems, and databa
 ## 🚀 About Me
 
 - 💼 Backend Developer at **Effeverse Gaming Enterprises**
-- ☕ Working with **Java**
+- ☕ Working with **Node.js**
 - 🟢 Building backend applications with **Node.js & Express.js**
 - 🗄️ Working with **MySQL**
 - 🔗 Building and integrating **REST APIs**
