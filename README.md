@@ -1,15 +1,16 @@
-# Hi 👋, I'm Shagin Jose
+# 👋 Hi, I'm Shagin Jose
 
 ### 💻 Backend Developer @ Effeverse Gaming Enterprises
 
-I'm a Backend Developer focused on building reliable APIs, backend systems, and database-driven applications.
+Backend Developer focused on building reliable APIs, backend systems, and database-driven applications.
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Backend Developer at **Effeverse Gaming Enterprises**
-- 💻 Working with **Java, Node.js & Express.js**
+- ☕ Working with **Java**
+- 🟢 Building backend applications with **Node.js & Express.js**
 - 🗄️ Working with **MySQL**
 - 🔗 Building and integrating **REST APIs**
 - 🎮 Interested in backend systems for gaming and software applications
@@ -20,7 +21,7 @@ I'm a Backend Developer focused on building reliable APIs, backend systems, and 
 ## 🛠️ Tech Stack
 
 ### Backend
-`Java` `Node.js` `Express.js`
+`Java` `Node.js` `Express.js` `REST API`
 
 ### Database
 `MySQL`
@@ -33,22 +34,22 @@ I'm a Backend Developer focused on building reliable APIs, backend systems, and 
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🔹 Andritz 2.0
-Backend API system built with Node.js, Express.js and MySQL.
+Backend API system built using **Node.js, Express.js and MySQL**.
 
 ### 🔹 3D Model Management System
-Unity-based system integrated with a Node.js, Express.js and MySQL backend.
+Backend-powered Unity system using **Node.js, Express.js and MySQL**.
 
 ### 🔹 Student Management System
-Full-stack application using React.js, Node.js and MySQL.
+Full-stack application using **React.js, Node.js and MySQL**.
 
 ### 🔹 Rich Crumble – Home Bakers
 Mobile-friendly website developed for a home bakery business.
 
 ### 🔹 Office Escape 3D
-3D game project developed using Unity.
+3D game project developed using **Unity**.
 
 ---
 
@@ -61,4 +62,10 @@ Mobile-friendly website developed for a home bakery business.
 
 ---
 
-### 🚀 Build • Learn • Improve
+## ⚡ Currently
+
+**Building backend systems • Learning • Creating • Improving 🚀**
+
+---
+
+### ⭐ Thanks for visiting my profile!
