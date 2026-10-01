@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./wide_cinematic_tech_banner_scene_a_high_quality_n.png" width="100%">
+  <img src="./Neon Developer Gaming Workspace Banner.png" width="100%">
 </p>
 # 👋 Hi, I'm Shagin Jose
 
