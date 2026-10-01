@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Shagin Jose
 
-<!--
-**shagin-jose-s/shagin-jose-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Backend Developer @ Effeverse Gaming Enterprises
 
-Here are some ideas to get you started:
+I'm a Backend Developer focused on building reliable APIs, backend systems, and database-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 Backend Developer at **Effeverse Gaming Enterprises**
+- 💻 Working with **Java, Node.js & Express.js**
+- 🗄️ Working with **MySQL**
+- 🔗 Building and integrating **REST APIs**
+- 🎮 Interested in backend systems for gaming and software applications
+- 🌱 Continuously learning and improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+`Java` `Node.js` `Express.js`
+
+### Database
+`MySQL`
+
+### Frontend
+`HTML` `CSS` `JavaScript` `React.js`
+
+### Tools
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Unity`
+
+---
+
+## 📌 Projects
+
+### 🔹 Andritz 2.0
+Backend API system built with Node.js, Express.js and MySQL.
+
+### 🔹 3D Model Management System
+Unity-based system integrated with a Node.js, Express.js and MySQL backend.
+
+### 🔹 Student Management System
+Full-stack application using React.js, Node.js and MySQL.
+
+### 🔹 Rich Crumble – Home Bakers
+Mobile-friendly website developed for a home bakery business.
+
+### 🔹 Office Escape 3D
+3D game project developed using Unity.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaginjose)
+- 🌐 [Portfolio](https://shagin-jose-portfolio.netlify.app/)
+- ▶️ [Slofybeats](https://www.youtube.com/@slofy-beats)
+- ▶️ [Slofybeats 2.O](https://www.youtube.com/@slofybeats2.0)
+
+---
+
+### 🚀 Build • Learn • Improve
