@@ -293,10 +293,6 @@ A 3D escape-room project featuring interactive environments, puzzles, and gamepl
 
 ---
 
----
-
----
-
 <h2 align="center">🌱 My GitHub Journey</h2>
 
 <div align="center">
@@ -320,12 +316,6 @@ A 3D escape-room project featuring interactive environments, puzzles, and gamepl
 <sub>Code · Create · Learn · Improve 🚀</sub>
 
 </div>
-
----
-
----
-
----
 
 ---
 
