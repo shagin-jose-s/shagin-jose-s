@@ -3,25 +3,19 @@
 </p>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0B1120,50:312E81,100:0891B2&text=SHAGIN%20JOSE%20S&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=BACKEND%20DEVELOPER&descSize=17&descAlignY=62" width="100%" alt="Shagin Jose - Backend Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0B1120,50:312E81,100:0891B2&text=SHAGIN%20JOSE%20S&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=BACKEND%20DEVELOPER&descSize=16&descAlignY=62" width="100%" alt="Shagin Jose - Backend Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+APIs+and+Backend+Systems;Java+%7C+Node.js+%7C+Express.js;Exploring+Unity+Game+Development;Learning+and+Improving+Every+Day" alt="Animated introduction"/>
-
-<br/><br/>
-
-<a href="https://github.com/shagin-jose-s">
-<img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/shaginjose">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://shagin-jose-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+%7C+Node.js+%7C+Express.js;Building+APIs+and+Backend+Systems;Exploring+Unity+Game+Development;Learning+Something+New+Every+Day" alt="Introduction"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shagin-jose-s&style=for-the-badge&color=0891B2&label=PROFILE+VISITS" alt="Profile visits"/>
+<a href="https://github.com/shagin-jose-s">GitHub</a> ·
+<a href="https://linkedin.com/in/shaginjose">LinkedIn</a> ·
+<a href="https://shagin-jose-portfolio.netlify.app">Portfolio</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shagin-jose-s&style=flat-square&color=0891B2&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
@@ -29,233 +23,92 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 I'm a **Backend Developer at Effeverse Gaming Enterprises**, focused on building backend applications, APIs, and database-driven systems.
 
 I enjoy solving technical problems, developing practical software solutions, and continuously improving my engineering skills.
 
-### 💼 Professional Focus
-
-- Backend application development
-- REST API development
-- Database integration using MySQL
-- Server-side application logic
-- Application integration
-- Building reliable software solutions
-
-</td>
-<td width="42%" valign="top">
-
-### 🚀 Beyond Backend
-
-**🎮 Game Development**
-
-Exploring Unity, C#, and interactive 3D environments.
-
-**🐧 DevOps Learning**
-
-Learning Linux, deployment workflows, and DevOps fundamentals.
-
-**🎵 Content Creation**
-
-Creating music-related videos for my YouTube channels.
-
-**💡 Personal Projects**
-
-Turning ideas into practical software experiences.
-
-</td>
-</tr>
-</table>
+| Professional Focus | Beyond Backend |
+|---|---|
+| Backend application development | Exploring Unity and 3D game development |
+| REST API development | Learning C# fundamentals |
+| MySQL and database integration | Learning DevOps and Linux fundamentals |
+| Server-side application logic | Creating music-related YouTube content |
 
 ---
 
-## ⚡ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Backend Development**
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=java,nodejs,express" alt="Java, Node.js and Express.js"/>
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,express&theme=dark" alt="Java, Node.js, Express.js"/>
+**Database**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 
-`Java` · `Node.js` · `Express.js`
+**Frontend Development**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React"/>
 
-### 🗄️ Database
+**Development Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA"/>
 
-<br/><br/>
+**Currently Learning & Exploring**
 
-`MySQL`
+<img src="https://skillicons.dev/icons?i=linux,docker,unity,cs" alt="Linux, Docker, Unity and C#"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React"/>
-
-<br/><br/>
-
-`HTML` · `CSS` · `JavaScript` · `React`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA"/>
-
-<br/><br/>
-
-`Git` · `GitHub` · `VS Code` · `IntelliJ IDEA`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Unity & Game Development
-
-<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity and C#"/>
-
-<br/><br/>
-
-Exploring Unity, C# fundamentals, and interactive 3D projects.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=linux,docker&theme=dark" alt="Linux and Docker"/>
-
-<br/><br/>
-
-Learning Linux, deployment workflows, and DevOps fundamentals.
-
-</td>
-</tr>
-</table>
+Linux, Docker, Unity, and C# are learning and exploration areas.
 
 ---
 
 ## 🚀 Backend & Software Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Andritz 2.0
+### 1. Andritz 2.0
 
 Backend API project associated with my professional work.
 
-**Technologies**
+**Technologies:** Node.js · Express.js · MySQL
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-303030?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+### 2. 3D Model Management System
 
-</td>
-<td width="50%" valign="top">
+A backend-powered application integrating services with a Unity-based 3D model management experience.
 
-### 🧊 3D Model Management System
+**Technologies:** Node.js · Express.js · MySQL · Unity
 
-A system integrating backend services with a Unity-based 3D model management application.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-303030?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
+### 3. Student Management System
 
 A full-stack application designed to manage student-related information.
 
-**Technologies**
+**Technologies:** React · Node.js · MySQL
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍰 Rich Crumble — Home Bakers
+### 4. Rich Crumble — Home Bakers
 
 A responsive website for a home-baking brand, showcasing products and supporting customer enquiries.
 
-**Technologies**
+**Technologies:** HTML · CSS · JavaScript
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+**Live Website:** [Rich Crumble](https://rich-crumble-menu-by-jose.netlify.app/)
 
-<br/><br/>
-
-<a href="https://rich-crumble-menu-by-jose.netlify.app/">
-<img src="https://img.shields.io/badge/Visit_Live_Website-0891B2?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Rich Crumble website"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-> **Note:** Only share professional project details that you're authorized to disclose publicly.
+> Only share professional project details you're authorized to disclose publicly.
 
 ---
 
 ## 🎮 Unity & Game Development
 
-Game development is a separate personal interest where I explore gameplay mechanics, interactive systems, and 3D environments.
+Game development is a separate personal interest where I explore gameplay concepts, interactive systems, and 3D environments.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🕹️ Dimension Override
+### Dimension Override
 
 My personal gaming project exploring immersive gameplay concepts and interactive experiences.
 
-<br/>
+**Engine:** Unity
 
-<img src="https://img.shields.io/badge/Personal_Project-7C3AED?style=flat-square" alt="Personal project"/>
-<img src="https://img.shields.io/badge/Engine-Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Office Escape 3D
+### Office Escape 3D
 
 A 3D escape-room game project featuring interactive environments, puzzles, and gameplay mechanics.
 
-<br/>
-
-<img src="https://img.shields.io/badge/Game_Project-7C3AED?style=flat-square" alt="Game project"/>
-<img src="https://img.shields.io/badge/Engine-Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-
-</td>
-</tr>
-</table>
+**Engine:** Unity
 
 ---
 
@@ -263,135 +116,51 @@ A 3D escape-room game project featuring interactive environments, puzzles, and g
 
 <div align="center">
 
-<a href="https://github.com/shagin-jose-s">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/> alt="GitHub statistics"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=shagin-jose-s&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
 
-<a href="https://github.com/shagin-jose-s">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagin-jose-s&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/shagin-jose-s">
-<img width="75%" src="https://streak-stats.demolab.com?user=shagin-jose-s&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagin-jose-s&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## 🌱 My GitHub Journey
+## 🌱 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/shagin-jose-s?tab=repositories">
-<img src="https://img.shields.io/badge/BUILD-Projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Build projects"/>
-</a>
-<a href="https://github.com/shagin-jose-s">
-<img src="https://img.shields.io/badge/LEARN-New_Skills-7C3AED?style=for-the-badge" alt="Learn new skills"/>
-</a>
-<a href="https://github.com/shagin-jose-s">
-<img src="https://img.shields.io/badge/IMPROVE-Every_Day-16A34A?style=for-the-badge" alt="Improve every day"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&bg_color=0d1117&color=22d3ee&line=7c3aed&point=22d3ee&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="GitHub contribution activity"/>
-
-<br/>
-
-<a href="https://github.com/shagin-jose-s?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore repositories"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## 🎵 Beyond Coding — My YouTube Channels
+## 🎵 My YouTube Channels
 
-<p align="center">
-Music, creativity, and video editing are another part of my journey.
-</p>
+I also create and publish music-related video content.
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<br/>
-
-### 🎧 Slofybeats
-
-My main channel for music-related video content.
-
-<br/><br/>
-
-<a href="https://youtube.com/@slofy-beats?si=f6eUFSY3vgUmXvqA">
-<img src="https://img.shields.io/badge/▶_EXPLORE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Slofybeats"/>
-</a>
-
-<br/><br/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<br/>
-
-### 🎶 Slofybeats 2.O
-
-My second channel for additional music-related video content.
-
-<br/><br/>
-
-<a href="https://youtube.com/@slofybeats2.o?si=w63TbUCpqAHm2jMN">
-<img src="https://img.shields.io/badge/▶_EXPLORE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Slofybeats 2.O"/>
-</a>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
+| Slofybeats | Slofybeats 2.O |
+|---|---|
+| My main channel for music-related video content. | My second channel for additional music-related video content. |
+| [Visit Channel](https://youtube.com/@slofy-beats) | [Visit Channel](https://youtube.com/@slofybeats2.o) |
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-Interested in backend development, software projects, or technology?
-
-<br/>
-Let's connect and share ideas!
-
-<br/><br/>
-
 <a href="https://github.com/shagin-jose-s">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/shaginjose">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<br/><br/>
-
 <a href="https://shagin-jose-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://youtube.com/@slofy-beats?si=f6eUFSY3vgUmXvqA">
-<img src="https://img.shields.io/badge/Slofybeats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Slofybeats"/>
-</a>
-<a href="https://youtube.com/@slofybeats2.o?si=w63TbUCpqAHm2jMN">
-<img src="https://img.shields.io/badge/Slofybeats_2.O-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Slofybeats 2.O"/>
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Build+Thoughtfully.;Learn+Continuously.;Keep+Improving." alt="Closing message"/>
-
-<br/><br/>
-
-<sub>Backend Developer · Technology Enthusiast · Lifelong Learner</sub>
+<sub>Build thoughtfully. Learn continuously. Keep improving.</sub>
 
 </div>
