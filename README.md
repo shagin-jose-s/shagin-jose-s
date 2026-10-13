@@ -1,74 +1,146 @@
 <p align="center">
   <img src="./Neon Developer Gaming Workspace Banner.png" width="100%">
 </p>
-# 👋 Hi, I'm Shagin Jose
+<div align="center">
 
-### 💻 Backend Developer @ Effeverse Gaming Enterprises
+# 👋 Hi, I'm Shagin Jose S
 
-Backend Developer focused on building reliable APIs, backend systems, and database-driven applications.
+### 💻 Backend Developer | DevOps Enthusiast | Unity Developer
+
+Building reliable backend systems, APIs, and interactive gaming experiences.
+
+<p>
+  <a href="https://github.com/shagin-jose-s">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://shagin-jose-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shaginjose">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 💼 Backend Developer at **Effeverse Gaming Enterprises**
-- ☕ Working with **Node.js**
-- 🟢 Building backend applications with **Node.js & Express.js**
-- 🗄️ Working with **MySQL**
-- 🔗 Building and integrating **REST APIs**
-- 🎮 Interested in backend systems for gaming and software applications
-- 🌱 Continuously learning and improving my development skills
+- ⚙️ Interested in backend engineering, APIs, and deployment workflows.
+- 🗄️ Working with databases and server-side applications.
+- 🎮 Exploring Unity game development and interactive systems.
+- 🚀 Interested in DevOps, Linux, Git, and CI/CD automation.
+- 📚 Continuously learning and building practical projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-`Java` `Node.js` `Express.js` `REST API`
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express" />
+</p>
 
 ### Database
-`MySQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Frontend
-`HTML` `CSS` `JavaScript` `React.js`
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-### Tools
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Unity`
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,idea" />
+</p>
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Andritz 2.0
-Backend API system built using **Node.js, Express.js and MySQL**.
-
-### 🔹 3D Model Management System
-Backend-powered Unity system using **Node.js, Express.js and MySQL**.
-
-### 🔹 Student Management System
-Full-stack application using **React.js, Node.js and MySQL**.
-
-### 🔹 Rich Crumble – Home Bakers
-Mobile-friendly website developed for a home bakery business.
-
-### 🔹 Office Escape 3D
-3D game project developed using **Unity**.
+### Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaginjose)
-- 🌐 [Portfolio](https://shagin-jose-portfolio.netlify.app/)
-- ▶️ [Slofybeats](https://www.youtube.com/@slofy-beats)
-- ▶️ [Slofybeats 2.O](https://www.youtube.com/@slofybeats2.0)
+### 🎮 Game Development
+
+**Dimension Override**
+- Personal Unity gaming project.
+- Focused on creating immersive gameplay experiences.
+- Exploring game systems, environments, and interactive mechanics.
+
+**Office Escape 3D**
+- 3D escape-room game project.
+- Features interactive environments, puzzles, and gameplay mechanics.
+
+### ⚙️ Backend & Full-Stack Development
+
+**Andritz 2.0**
+- Backend API project using Node.js, Express.js, and MySQL.
+- Associated with my professional work.
+
+**3D Model Management System**
+- Backend-powered system designed to manage 3D models.
+- Combines Unity with Node.js, Express.js, and MySQL.
+
+**Student Management System**
+- Full-stack application built with React.js, Node.js, and MySQL.
+
+### 🍰 Web Development
+
+**Rich Crumble – Home Bakers**
+- Mobile-friendly website for a home-baking brand.
+- Includes product browsing and an online ordering experience.
 
 ---
 
-## ⚡ Currently
+## 📊 GitHub Statistics
 
-**Building backend systems • Learning • Creating • Improving 🚀**
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shagin-jose-s&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagin-jose-s&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shagin-jose-s&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shaginjose">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://shagin-jose-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=googlechrome" />
+  </a>
+  <a href="https://github.com/shagin-jose-s">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Deploy. Repeat. 🚀
+
+*Turning ideas into practical software solutions.*
+
+</div>
