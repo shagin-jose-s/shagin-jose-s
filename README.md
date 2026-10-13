@@ -293,21 +293,31 @@ A 3D escape-room project featuring interactive environments, puzzles, and gamepl
 
 ---
 
-<h2 align="center">🌱 Contribution Activity</h2>
+---
+
+<h2 align="center">🌱 My GitHub Contribution Activity</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/KEEP_BUILDING-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Keep building"/>
+<a href="https://github.com/shagin-jose-s">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub contribution activity graph"
+/>
+
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<a href="https://github.com/shagin-jose-s?tab=repositories">
+  Explore My Repositories →
+</a>
 
 </div>
+
+---
 
 ---
 
