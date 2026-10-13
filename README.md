@@ -295,27 +295,33 @@ A 3D escape-room project featuring interactive environments, puzzles, and gamepl
 
 ---
 
-<h2 align="center">🌱 My GitHub Contribution Activity</h2>
+---
+
+<h2 align="center">🌱 My GitHub Journey</h2>
 
 <div align="center">
 
-<a href="https://github.com/shagin-jose-s">
+<p>
+  Building projects, learning new technologies, and improving my development skills.
+</p>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
-
+<a href="https://github.com/shagin-jose-s?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-My_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/shagin-jose-s?tab=repositories">
-  Explore My Repositories →
+<a href="https://github.com/shagin-jose-s">
+  <img src="https://img.shields.io/badge/KEEP_BUILDING-181717?style=for-the-badge&logo=github&logoColor=white" alt="Keep building"/>
 </a>
 
+<br/><br/>
+
+<sub>Code · Create · Learn · Improve 🚀</sub>
+
 </div>
+
+---
 
 ---
 
