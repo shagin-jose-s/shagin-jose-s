@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shagin-jose-s&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="Neon Portfolio Profile Visit Banner.png?username=shagin-jose-s&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
