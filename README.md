@@ -264,7 +264,7 @@ A 3D escape-room game project featuring interactive environments, puzzles, and g
 <div align="center">
 
 <a href="https://github.com/shagin-jose-s">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shagin-jose-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagin-jose-s&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/> alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/shagin-jose-s">
