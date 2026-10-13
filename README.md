@@ -327,46 +327,79 @@ A 3D escape-room project featuring interactive environments, puzzles, and gamepl
 
 ---
 
+---
+
 <h2 align="center">🎵 Beyond Coding — My YouTube Channels</h2>
 
 <p align="center">
-Music, creativity, and video editing are another part of my journey.
+  Music, creativity, and video editing are another part of my journey.
 </p>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/SLOFYBEATS-MUSIC%20%26%20VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Slofybeats channel"/>
+<h3>🎧 Slofybeats</h3>
 
-### 🎧 Slofybeats
-
-My main channel for music-related video content.
+<p>
+  My main YouTube channel, featuring music-related videos and creative edits.
+</p>
 
 <br/>
 
-<a href="https://youtube.com/@slofy-beats?si=f6eUFSY3vgUmXvqA">
-<img src="https://img.shields.io/badge/▶_EXPLORE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Slofybeats"/>
+<a href="https://youtube.com/@slofy-beats">
+  <img src="https://img.shields.io/badge/YOUTUBE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Slofybeats YouTube channel"/>
 </a>
+
+<br/><br/>
+
+<a href="https://youtube.com/@slofy-beats">
+  <strong>▶ Visit Slofybeats →</strong>
+</a>
+
+<br/><br/>
 
 </td>
+
 <td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/SLOFYBEATS_2.O-MUSIC%20CONTENT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Slofybeats 2.O channel"/>
+<h3>🎶 Slofybeats 2.O</h3>
 
-### 🎶 Slofybeats 2.O
-
-My second channel for additional music-related video content.
+<p>
+  My second YouTube channel for additional music-related video content.
+</p>
 
 <br/>
 
-<a href="https://youtube.com/@slofybeats2.o?si=w63TbUCpqAHm2jMN">
-<img src="https://img.shields.io/badge/▶_EXPLORE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Visit Slofybeats 2.O"/>
+<a href="https://youtube.com/@slofybeats2.o">
+  <img src="https://img.shields.io/badge/YOUTUBE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Slofybeats 2.O YouTube channel"/>
 </a>
+
+<br/><br/>
+
+<a href="https://youtube.com/@slofybeats2.o">
+  <strong>▶ Visit Slofybeats 2.O →</strong>
+</a>
+
+<br/><br/>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+**🎬 Create. Edit. Publish. Repeat.**
+
+<sub>Combining technology with creativity, one video at a time.</sub>
+
+</div>
+
+---
 
 ---
 
